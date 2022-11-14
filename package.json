@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "htf-2022-component": "github:CollideNV/htf-2022-component",
     "vue": "^3.2.41"
   },
   "devDependencies": {
